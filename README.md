@@ -80,4 +80,25 @@ After rigorous data cleaning and model tuning, the Telemedicine Diagnostic Tool 
 ### Key Takeaway:
 A healthcare stakeholder (e.g., a remote consultation service provider) can leverage this tool to quickly triage patient symptoms and advise on next steps, improving patient engagement and reducing unnecessary hospital visits.
 
+## Technical Documentation
+
+Data Preparation & Model Training
+	•	Data Cleaning: The training data was carefully preprocessed to handle missing values and normalize symptom entries.
+ 
+	•	Model Choice: An MLPClassifier was chosen to capture non-linear relationships between symptoms and diseases.
+ 
+	•	Validation: Cross-validation and hold-out testing were used to evaluate model performance.
+ 
+	•	Interactive Input: The tool allows users to input symptoms, rate their severity, and specify duration to tailor the recommendation.
+ 
+
+For full code details, please see the main.py file in this repository.
+
+## Final Thoughts
+
+This Telemedicine Diagnostic Tool project demonstrates the application of data analytics and machine learning in healthcare. By combining user-friendly design with robust technical methodology, the tool aims to support remote diagnostics and empower patients with actionable insights.
+
+
+
+
 </footer>
