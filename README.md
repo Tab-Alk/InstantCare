@@ -76,7 +76,7 @@ An Entity Relationship Diagram (ERD) of the data structure is available in the r
 
 ## Executive Summary
 
-### Overview of Findings
+#### Overview of Findings
 
 After rigorous data cleaning and model tuning, the Telemedicine Diagnostic Tool is able to:
 
@@ -85,6 +85,9 @@ After rigorous data cleaning and model tuning, the Telemedicine Diagnostic Tool 
 	2. Display the top three disease predictions along with descriptions and confidence scores.
 
 	3. Provide personalized recommendations and precautionary measures tailored to the user’s inputs.
+ #### Key Takeaway:
+A healthcare stakeholder (e.g., a remote consultation service provider) can leverage this tool to quickly triage patient symptoms and advise on next steps, improving patient engagement and reducing unnecessary hospital visits.
+
 
  ## Insights Deep Dive:
  Symptom-to-Disease Prediction
@@ -110,8 +113,7 @@ After rigorous data cleaning and model tuning, the Telemedicine Diagnostic Tool 
 
 These steps will help create a robust, scalable diagnostic tool that can significantly impact patient care.
 
-## Key Takeaway:
-A healthcare stakeholder (e.g., a remote consultation service provider) can leverage this tool to quickly triage patient symptoms and advise on next steps, improving patient engagement and reducing unnecessary hospital visits.
+
 
 ## Technical Documentation
 
