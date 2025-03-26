@@ -48,20 +48,16 @@ Key Points:
 
 The primary data used in this project comes from multiple CSV files:
 
-	• Training.csv & Testing.csv: Contain symptom features and prognosis labels for supervised learning.
- 
-	• Symptom_Description.csv: Provides detailed descriptions for various diseases.
-
-	• Symptom_severity.csv: Contains severity scores for symptoms.
- 
-	• Symptom_precaution.csv: Lists precautionary measures for each disease.
+	- Training.csv & Testing.csv: Contain symptom features and prognosis labels for supervised learning.
+	- Symptom_Description.csv: Provides detailed descriptions for various diseases.
+	- Symptom_severity.csv: Contains severity scores for symptoms.
+	- Symptom_precaution.csv: Lists precautionary measures for each disease.
  
 
 The main database consists of:
 
-	• Symptoms Table: Binary and user-rated severity for various symptoms.
- 
-	• Prognosis Label: The predicted disease based on the symptom vector.
+	- Symptoms Table: Binary and user-rated severity for various symptoms.
+	- Prognosis Label: The predicted disease based on the symptom vector.
  
 
 An Entity Relationship Diagram (ERD) of the data structure is available in the repository.
