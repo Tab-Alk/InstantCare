@@ -37,20 +37,12 @@ This project was developed as part of a data analytics portfolio to demonstrate 
 
 Key Points:
 
-	• Industry: Healthcare / Telemedicine
- 
-	• Business Model: Online diagnostic tool supporting remote consultations
- 
-	• Project Goals:
- 
-		• Quickly capture user symptoms
-  
-		• Provide clear diagnostic predictions with confidence scores
-  
-		• Offer actionable precautionary measures and personalized recommendations
-
-  
-
+- Industry: Healthcare / Telemedicine
+- Business Model: Online diagnostic tool supporting remote consultations
+- Project Goals:
+  - Quickly capture user symptoms
+  - Provide clear diagnostic predictions with confidence scores
+  - Offer actionable precautionary measures and personalized recommendations
  
 ## Data Structure & Initial Checks
 
