@@ -88,12 +88,17 @@ After rigorous data cleaning and model tuning, the Telemedicine Diagnostic Tool 
  ## Insights Deep Dive:
  Symptom-to-Disease Prediction
 	1. The model identifies key symptom combinations that strongly correlate with specific diseases.
+ 
 		Example: Fever combined with headache and nausea is frequently associated with influenza.
+  
 	2. User-defined severity inputs improve the granularity of predictions.
 		Observation: A patient reporting severe symptoms over multiple days yields higher urgency recommendations.
-	3. The top three predicted diseases offer transparency and allow for informed decision-making.
+
+  	3. The top three predicted diseases offer transparency and allow for informed decision-making.
 		Observation: Users see not only the most likely disease but also alternatives with close confidence scores.
+  
 	4. The inclusion of symptom descriptions and precautionary measures adds value by guiding next steps.
+ 
 
  ## Recommendations:
  Based on the analysis and model outcomes, the following recommendations are made for stakeholders:
