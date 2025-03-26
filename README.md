@@ -26,8 +26,10 @@ Welcome to the Telemedicine Diagnostic Tool project! This repository contains a 
 This project was developed as part of a data analytics portfolio to demonstrate how to apply machine learning to healthcare diagnostics. The Telemedicine Diagnostic Tool uses user-input symptoms to predict possible diseases and provide personalized recommendations.
 
 Key Points:
-	•	Industry: Healthcare / Telemedicine
-	•	Business Model: Online diagnostic tool supporting remote consultations
+	Industry: Healthcare / Telemedicine
+ 
+	•	Business Model: Online diagnostic tool supporting remote consultations\
+ 
 	•	Project Goals:
 	•	Quickly capture user symptoms
 	•	Provide clear diagnostic predictions with confidence scores
