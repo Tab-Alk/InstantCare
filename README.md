@@ -12,7 +12,7 @@
 2. [Data Structure & Initial Checks](#data-structure--initial-checks)
 3. [Executive Summary](#executive-summary)
 4. [Technical Documentation](#technical-documentation)
-5. [Insights Deep Dive](#Insights_Deep_Dive)
+5. [Insights Deep Dive](#insights_Deep_Dive)
 6. [Recommendations](#recommendations)
 7. [Final Thoughts](#final-thoughts)
 
@@ -80,11 +80,11 @@ An Entity Relationship Diagram (ERD) of the data structure is available in the r
 
 After rigorous data cleaning and model tuning, the Telemedicine Diagnostic Tool is able to:
 
-	• Accurately predict a set of potential diseases based on user-reported symptoms.
+	- Accurately predict a set of potential diseases based on user-reported symptoms.
  
-	• Display the top three disease predictions along with descriptions and confidence scores.
+	- Display the top three disease predictions along with descriptions and confidence scores.
 
-	• Provide personalized recommendations and precautionary measures tailored to the user’s inputs.
+	- Provide personalized recommendations and precautionary measures tailored to the user’s inputs.
 
  ## Insights Deep Dive:
  Symptom-to-Disease Prediction
