@@ -11,7 +11,6 @@
 1. [Project Background](#project-background)
 2. [Data Structure & Initial Checks](#data-structure--initial-checks)
 3. [Executive Summary](#executive-summary)
-4. [Technical Documentation](#technical-documentation)
 5. [Insights Deep Dive](#insights_Deep_Dive)
 6. [Recommendations](#recommendations)
 7. [Final Thoughts](#final-thoughts)
@@ -80,21 +79,21 @@ An Entity Relationship Diagram (ERD) of the data structure is available in the r
 
 After rigorous data cleaning and model tuning, the Telemedicine Diagnostic Tool is able to:
 
-	- Accurately predict a set of potential diseases based on user-reported symptoms.
+	1. Accurately predict a set of potential diseases based on user-reported symptoms.
  
-	- Display the top three disease predictions along with descriptions and confidence scores.
+	2. Display the top three disease predictions along with descriptions and confidence scores.
 
-	- Provide personalized recommendations and precautionary measures tailored to the user’s inputs.
+	3. Provide personalized recommendations and precautionary measures tailored to the user’s inputs.
 
  ## Insights Deep Dive:
  Symptom-to-Disease Prediction
-	- Insight 1: The model identifies key symptom combinations that strongly correlate with specific diseases.
+	1. The model identifies key symptom combinations that strongly correlate with specific diseases.
 		Example: Fever combined with headache and nausea is frequently associated with influenza.
-	- Insight 2: User-defined severity inputs improve the granularity of predictions.
+	2. User-defined severity inputs improve the granularity of predictions.
 		Observation: A patient reporting severe symptoms over multiple days yields higher urgency recommendations.
-	- Insight 3: The top three predicted diseases offer transparency and allow for informed decision-making.
+	3. The top three predicted diseases offer transparency and allow for informed decision-making.
 		Observation: Users see not only the most likely disease but also alternatives with close confidence scores.
-	- Insight 4: The inclusion of symptom descriptions and precautionary measures adds value by guiding next steps.
+	4. The inclusion of symptom descriptions and precautionary measures adds value by guiding next steps.
 
  ## Recommendations:
  Based on the analysis and model outcomes, the following recommendations are made for stakeholders:
