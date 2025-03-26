@@ -9,7 +9,7 @@
 
 # InstantCare: A Telemedicine Diagnostic Tool
 
-_Get started using GitHub in less than an hour._
+Welcome to the Telemedicine Diagnostic Tool project! This repository contains a student-level data science project designed to help users quickly assess their symptoms and receive preliminary diagnostic insights along with recommendations and precautionary measures. This project was built to showcase technical process, insights, and recommendations in a clear and compelling format.
 
 </header>
 
