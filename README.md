@@ -27,17 +27,17 @@ This project was developed as part of a data analytics portfolio to demonstrate 
 
 Key Points:
 
-	•	Industry: Healthcare / Telemedicine
+	• Industry: Healthcare / Telemedicine
  
-	•	Business Model: Online diagnostic tool supporting remote consultations
+	• Business Model: Online diagnostic tool supporting remote consultations
  
-	•	Project Goals:
+	• Project Goals:
  
-		•	Quickly capture user symptoms
+		• Quickly capture user symptoms
   
-		•	Provide clear diagnostic predictions with confidence scores
+		• Provide clear diagnostic predictions with confidence scores
   
-		•	Offer actionable precautionary measures and personalized recommendations
+		• Offer actionable precautionary measures and personalized recommendations
 
   
 
@@ -46,20 +46,20 @@ Key Points:
 
 The primary data used in this project comes from multiple CSV files:
 
-	•	Training.csv & Testing.csv: Contain symptom features and prognosis labels for supervised learning.
+	• Training.csv & Testing.csv: Contain symptom features and prognosis labels for supervised learning.
  
-	•	symptom_Description.csv: Provides detailed descriptions for various diseases.
+	• Symptom_Description.csv: Provides detailed descriptions for various diseases.
 
-	•	symptom_severity.csv: Contains severity scores for symptoms.
+	• Symptom_severity.csv: Contains severity scores for symptoms.
  
-	•	symptom_precaution.csv: Lists precautionary measures for each disease.
+	• Symptom_precaution.csv: Lists precautionary measures for each disease.
  
 
 The main database consists of:
 
-	•	Symptoms Table: Binary and user-rated severity for various symptoms.
+	• Symptoms Table: Binary and user-rated severity for various symptoms.
  
-	•	Prognosis Label: The predicted disease based on the symptom vector.
+	• Prognosis Label: The predicted disease based on the symptom vector.
  
 
 An Entity Relationship Diagram (ERD) of the data structure is available in the repository.
@@ -70,11 +70,11 @@ An Entity Relationship Diagram (ERD) of the data structure is available in the r
 
 After rigorous data cleaning and model tuning, the Telemedicine Diagnostic Tool is able to:
 
-	•	Accurately predict a set of potential diseases based on user-reported symptoms.
+	• Accurately predict a set of potential diseases based on user-reported symptoms.
  
-	•	Display the top three disease predictions along with descriptions and confidence scores.
+	• Display the top three disease predictions along with descriptions and confidence scores.
 
-	•	Provide personalized recommendations and precautionary measures tailored to the user’s inputs.
+	• Provide personalized recommendations and precautionary measures tailored to the user’s inputs.
  
 
 ### Key Takeaway:
@@ -83,13 +83,13 @@ A healthcare stakeholder (e.g., a remote consultation service provider) can leve
 ## Technical Documentation
 
 Data Preparation & Model Training
-	•	Data Cleaning: The training data was carefully preprocessed to handle missing values and normalize symptom entries.
+	• Data Cleaning: The training data was carefully preprocessed to handle missing values and normalize symptom entries.
  
-	•	Model Choice: An MLPClassifier was chosen to capture non-linear relationships between symptoms and diseases.
+	• Model Choice: An MLPClassifier was chosen to capture non-linear relationships between symptoms and diseases.
  
-	•	Validation: Cross-validation and hold-out testing were used to evaluate model performance.
+	• Validation: Cross-validation and hold-out testing were used to evaluate model performance.
  
-	•	Interactive Input: The tool allows users to input symptoms, rate their severity, and specify duration to tailor the recommendation.
+	• Interactive Input: The tool allows users to input symptoms, rate their severity, and specify duration to tailor the recommendation.
  
 
 For full code details, please see the main.py file in this repository.
