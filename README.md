@@ -7,6 +7,14 @@
   Add your open source license, GitHub uses MIT license.
 -->
 
+## Table of Contents
+1. [Project Background](#project-background)
+2. [Data Structure & Initial Checks](#data-structure--initial-checks)
+3. [Executive Summary](#executive-summary)
+4. [Technical Documentation](#technical-documentation)
+5. [Final Thoughts](#final-thoughts)
+
+6. 
 # InstantCare: A Telemedicine Diagnostic Tool
 
 Welcome to the Telemedicine Diagnostic Tool project! This repository contains a student-level data science project designed to help users quickly assess their symptoms and receive preliminary diagnostic insights along with recommendations and precautionary measures. This project was built to showcase technical process, insights, and recommendations in a clear and compelling format.
