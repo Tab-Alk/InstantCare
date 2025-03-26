@@ -11,9 +11,10 @@
 1. [Project Background](#project-background)
 2. [Data Structure & Initial Checks](#data-structure--initial-checks)
 3. [Executive Summary](#executive-summary)
-5. [Insights Deep Dive](#insights_Deep_Dive)
+5. [Insights Deep Dive](#insights-Deep-Dive)
 6. [Recommendations](#recommendations)
-7. [Final Thoughts](#final-thoughts)
+7. [Technical Documentation](#technical-documentation)
+8. [Final Thoughts](#final-thoughts)
 
    
 # InstantCare: A Telemedicine Diagnostic Tool
@@ -88,7 +89,6 @@ After rigorous data cleaning and model tuning, the Telemedicine Diagnostic Tool 
  ## Insights Deep Dive:
  Symptom-to-Disease Prediction
 	1. The model identifies key symptom combinations that strongly correlate with specific diseases.
- 
 		Example: Fever combined with headache and nausea is frequently associated with influenza.
   
 	2. User-defined severity inputs improve the granularity of predictions.
@@ -115,6 +115,7 @@ A healthcare stakeholder (e.g., a remote consultation service provider) can leve
 ## Technical Documentation
 
 Data Preparation & Model Training
+
 	• Data Cleaning: The training data was carefully preprocessed to handle missing values and normalize symptom entries.
  
 	• Model Choice: An MLPClassifier was chosen to capture non-linear relationships between symptoms and diseases.
