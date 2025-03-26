@@ -47,7 +47,6 @@ Key Points:
 ## Data Structure & Initial Checks
 
 The primary data used in this project comes from multiple CSV files:
-
 	- Training.csv & Testing.csv: Contain symptom features and prognosis labels for supervised learning.
 	- Symptom_Description.csv: Provides detailed descriptions for various diseases.
 	- Symptom_severity.csv: Contains severity scores for symptoms.
@@ -55,7 +54,6 @@ The primary data used in this project comes from multiple CSV files:
  
 
 The main database consists of:
-
 	- Symptoms Table: Binary and user-rated severity for various symptoms.
 	- Prognosis Label: The predicted disease based on the symptom vector.
  
