@@ -2,7 +2,7 @@
 ![Description of Image](istockphoto-1401811766-612x612.jpg)
 
 
-Welcome to the Telemedicine Diagnostic Tool project! This repository contains a student-level data science project designed to help users quickly assess their symptoms and receive preliminary diagnostic insights along with recommendations and precautionary measures. This project was built to showcase technical process, insights, and recommendations in a clear and compelling format.
+Welcome to the Telemedicine Diagnostic Tool project! This repository contains a data science project designed to help users quickly assess their symptoms and receive preliminary diagnostic insights along with recommendations and precautionary measures. This project was built to showcase technical process, insights, and recommendations in a clear and compelling format.
 
 ## Table of Contents
 
